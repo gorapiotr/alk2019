@@ -1,0 +1,23 @@
+{
+  "name": "alk2019",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "zad9": "node zad9/index.js",
+    "zad10": "node zad10/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gorapiotr/alk2019.git"
+  },
+  "author": "piotr gora",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gorapiotr/alk2019/issues"
+  },
+  "homepage": "https://github.com/gorapiotr/alk2019#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
+}
