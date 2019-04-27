@@ -2,14 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0004173b-996c-4ae7-af5e-4fffe2597f09" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/keypress/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/keypress/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/keypress/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/keypress/test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zad10/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/zad10/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/zad10/sieve.js" beforeDir="false" afterPath="$PROJECT_DIR$/zad10/sieve.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,7 +21,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state>
@@ -38,11 +30,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/zad10/sieve.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="372">
-              <caret line="55" column="13" lean-forward="true" selection-start-line="55" selection-start-column="13" selection-end-line="55" selection-end-column="13" />
+            <state relative-caret-position="447">
+              <caret line="60" column="2" lean-forward="true" selection-start-line="60" selection-start-column="2" selection-end-line="60" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -66,9 +58,9 @@
         <option value="$PROJECT_DIR$/zad9/index.js" />
         <option value="$PROJECT_DIR$/zad9/postage-stamp.js" />
         <option value="$PROJECT_DIR$/zad9/combination-sum.js" />
-        <option value="$PROJECT_DIR$/zad10/sieve.js" />
         <option value="$PROJECT_DIR$/zad10/index.js" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/zad10/sieve.js" />
       </list>
     </option>
   </component>
@@ -145,24 +137,32 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1556293134479</updated>
-      <workItem from="1556293135892" duration="18260000" />
+      <workItem from="1556293135892" duration="18451000" />
     </task>
+    <task id="LOCAL-00001" summary="Update zad 9">
+      <created>1556357865346</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1556357865346</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18260000" />
+    <option name="totallyTimeSpent" value="18451000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32891566" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32891566" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -179,6 +179,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Update zad 9" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update zad 9" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/zad10/sito_ver1.js">
@@ -216,10 +220,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/zad10/sieve.js">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="372">
-          <caret line="55" column="13" lean-forward="true" selection-start-line="55" selection-start-column="13" selection-end-line="55" selection-end-column="13" />
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -230,10 +234,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/zad10/sieve.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        <state relative-caret-position="447">
+          <caret line="60" column="2" lean-forward="true" selection-start-line="60" selection-start-column="2" selection-end-line="60" selection-end-column="2" />
         </state>
       </provider>
     </entry>

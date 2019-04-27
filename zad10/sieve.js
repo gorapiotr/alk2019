@@ -49,7 +49,7 @@ module.exports = {
     sieve: function (arrayLength) {
         let array = Array.from({length: arrayLength}, (v, k) => k + 1);
         let number = 3;
-        while (number < arrayLength) {
+        while (number <= arrayLength) {
             if (this.sieve1(array, number) || this.sieve2(array, number)) {
                 array.splice(array.indexOf(number), 1);
                 console.log('Aktualny stan:', array);
