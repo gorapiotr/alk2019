@@ -19,5 +19,8 @@
   "homepage": "https://github.com/gorapiotr/alk2019#readme",
   "dependencies": {
     "readline-sync": "^1.4.9"
+  },
+  "devDependencies": {
+    "mocha": "^6.1.4"
   }
 }
